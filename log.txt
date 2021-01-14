@@ -1,0 +1,5 @@
+---FLIGHT LOG---
+Point #1, X coordinate 0, Y coordinate 2.5, Recognized Color RED
+Point #2, X coordinate 3.5, Y coordinate 0.5, Recognized Color RED
+Point #3, X coordinate 2, Y coordinate 1.5, Recognized Color GREEN
+Point #4, X coordinate 3.5, Y coordinate 3.5, Recognized Color YELLOW
